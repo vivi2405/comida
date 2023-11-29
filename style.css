@@ -2,7 +2,7 @@ body {
 	
 }
 
-#banner {
+# {
 	width:100%;
 }
 
@@ -11,7 +11,7 @@ body {
 	padding: 30px;
 }
 
-.titulo-principal {
+.receitapizza{
 	padding-left: 20px;
 }
 
@@ -35,7 +35,7 @@ em strong {
 	font-style: italic
 }
 
-.beneficios {
+.Ingredientes {
 	background: #FFFFFF;
 	padding: 20px;
 }
@@ -47,6 +47,6 @@ ul {
 	margin-right: 15%;
 }
 
-.imagembeneficios {
+.imagempizza {
 	width: 50%;
 }
